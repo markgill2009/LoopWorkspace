@@ -304,7 +304,16 @@ jobs:
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
-          
+          future_carbs_4h \
+          override_sens \
+          now_line \
+          2hlollipop \
+          meal_days \
+          live_activity \
+          negative_insulin \
+          profiles \
+          basal_lock \
+          remote_window \
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
         run: |
